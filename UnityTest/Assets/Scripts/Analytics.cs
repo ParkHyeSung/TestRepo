@@ -19,6 +19,7 @@ public class Analytics : MonoBehaviour {
 		_evnetData.Add("name", "hyesung");
 		_evnetData.Add("player_Level", "99");
 		_evnetData.Add("Player_Tier", 1);
+		_evnetData.Add("Player_Items", 30);
 
 		TutorialCall();
 	}
